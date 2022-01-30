@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/johngleeson93/Final-year-project-John-Gleeson/issues"
   },
-  "homepage": "https://github.com/johngleeson93/Final-year-project-John-Gleeson#readme"
+  "homepage": "https://github.com/johngleeson93/Final-year-project-John-Gleeson#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  },
+  "prettier": {
+    "printWidth": 120
+  }
 }
