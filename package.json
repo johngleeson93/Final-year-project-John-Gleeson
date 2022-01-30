@@ -1,0 +1,19 @@
+{
+  "name": "final-year-project-john-gleeson",
+  "version": "1.0.0",
+  "description": "My final year project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johngleeson93/Final-year-project-John-Gleeson.git"
+  },
+  "author": "John Gleeson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johngleeson93/Final-year-project-John-Gleeson/issues"
+  },
+  "homepage": "https://github.com/johngleeson93/Final-year-project-John-Gleeson#readme"
+}
