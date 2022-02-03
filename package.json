@@ -1,5 +1,5 @@
 {
-  "name": "donation-web-2021",
+  "name": "exercise-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,6 +11,8 @@
   "dependencies": {
     "@hapi/hapi": "^20.1.0",
     "@hapi/inert": "^6.0.5",
+    "@hapi/vision": "^6.1.0",
+    "handlebars": "^4.7.7",
     "hapi": "^18.1.0"
   },
   "devDependencies": {
